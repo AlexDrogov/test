@@ -2,10 +2,5 @@
 
 54321
 890
-<<<<<<< HEAD
-qwerty
-=======
-789.
->>>>>>> 128e88e09eae7a5bd78b17d20b6a3b1e6913cdef
 
-like now
+789.
